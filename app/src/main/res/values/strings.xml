@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Voulagnan</string>
+    <string name="main_title">Bienvenue</string>
+    <string name="conversation_screen">Conversation</string>
+    <string name="chat_screen">Chat</string>
+</resources>
