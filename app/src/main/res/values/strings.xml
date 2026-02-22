@@ -4,4 +4,11 @@
     <string name="main_title">Bienvenue</string>
     <string name="conversation_screen">Conversation</string>
     <string name="chat_screen">Chat</string>
+    <string name="btn_conversation">Conversation</string>
+    <string name="btn_chat">Chat</string>
+    <string name="btn_back">Retour</string>
+    <string name="btn_send">Envoyer</string>
+    <string name="welcome_message">Bienvenue dans Voulagnan</string>
+    <string name="conversation_description">Écran de Conversation</string>
+    <string name="chat_description">Écran de Chat</string>
 </resources>

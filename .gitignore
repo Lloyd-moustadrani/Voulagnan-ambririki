@@ -1,0 +1,27 @@
+# Gradle files
+.gradle/
+build/
+*.apk
+*.aar
+
+# Local configuration file
+local.properties
+
+# Android Studio
+.idea/
+.classpath
+.project
+.settings/
+*.iml
+*.iws
+*.ipr
+
+# Intellij
+.idea/
+*.iml
+
+# Mac
+.DS_Store
+
+# Other
+*.log
